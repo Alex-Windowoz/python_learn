@@ -1,0 +1,66 @@
+barley.bat
+eggplant.bat
+hot_chocolate.bat
+sweet_potato.bat
+toffee.bat
+----------
+Summary: 1 TB
+
+cheese.bmp
+juice.bmp
+sour_cream.bmp
+venison.bmp
+----------
+Summary: 992 KB
+
+bagel.docx
+pike.docx
+pretzel.docx
+strawberry.docx
+----------
+Summary: 1 TB
+
+liver.exe
+----------
+Summary: 331 GB
+
+canned_fruit.jpg
+cod.jpg
+----------
+Summary: 1012 B
+
+blackberry.pas
+mutton.pas
+pretzel.pas
+soft_drink.pas
+soft_drink.pas
+turkey.pas
+vanilla.pas
+----------
+Summary: 301 GB
+
+raspberry.pptx
+tea.pptx
+----------
+Summary: 672 GB
+
+cheese.py
+mackerel.py
+turkey.py
+zucchini.py
+----------
+Summary: 1 MB
+
+asparagus.rar
+----------
+Summary: 701 KB
+
+canned_fruit.txt
+pineapple.txt
+pumpkin.txt
+scallion.txt
+----------
+Summary: 201 GB
+
+cookie.zip
+pistachio.zip
